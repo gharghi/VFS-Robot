@@ -1,0 +1,6 @@
+selenium 
+pillow 
+twocaptcha
+chromedriver
+undetected_chromedriver
+names

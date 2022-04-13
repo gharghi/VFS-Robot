@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "visaType": "3178",
+      "names": [
+        {
+          "passportNum": "xnnnn",
+          "first": "ddd",
+          "last": "JJjd",
+          "gender": "F",
+          "passportExpiry": "24/10/2025",
+          "birthday": "20/09/1983",
+          "mobile": "9127276167",
+          "email": "ee@eee.com"
+        }
+      ]
+    },
+    {
+      "visaType": "3616",
+      "names": [
+        {
+          "passportNum": "B323232",
+          "first": "dssd",
+          "last": "sdsdds",
+          "gender": "M",
+          "passportExpiry": "18/10/2023",
+          "birthday": "31/03/1981",
+          "mobile": "9127776717",
+          "email": "w@fs.com"
+        },
+        {
+          "passportNum": "B3233232",
+          "first": "dsesd",
+          "last": "sdsdds",
+          "gender": "M",
+          "passportExpiry": "18/10/2023",
+          "birthday": "31/03/1981",
+          "mobile": "9127276167",
+          "email": "s@rrr.com"
+        }
+      ]
+    }
+  ]
+}
